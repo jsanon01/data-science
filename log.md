@@ -71,4 +71,4 @@ Simply said, data scientists have emerged as a hot commodity, in the data-driven
 
 - It’s been estimated there will be 75 billion IoT devices by 2025, adding a few zeroes onto the size of the digital universe
 
-[Link](https://www.ebay.com/itm/143893344532?chn=ps&norover=1&mkevt=1&mkrid=711-213727-13078-0&mkcid=2&itemid=143893344532&targetid=4580909047876964&device=c&mktype=&googleloc=&poi=&campaignid=410488100&mkgroupid=1236950807674763&rlsatarget=pla-4580909047876964&abcId=9300489&merchantid=51291&msclkid=482f3ce8f51b1fefc53f5c79a4203a17&nma=true&si=e0er5DkkjZmgPP%252BROPhUiF%252BZi2o%253D&orig_cvip=true&nordt=true&rt=nc&_trksid=p2047675.l2557)
+[Data Science REference Link](https://www.ebay.com/itm/143893344532?chn=ps&norover=1&mkevt=1&mkrid=711-213727-13078-0&mkcid=2&itemid=143893344532&targetid=4580909047876964&device=c&mktype=&googleloc=&poi=&campaignid=410488100&mkgroupid=1236950807674763&rlsatarget=pla-4580909047876964&abcId=9300489&merchantid=51291&msclkid=482f3ce8f51b1fefc53f5c79a4203a17&nma=true&si=e0er5DkkjZmgPP%252BROPhUiF%252BZi2o%253D&orig_cvip=true&nordt=true&rt=nc&_trksid=p2047675.l2557)
