@@ -44,7 +44,7 @@ Before Data Science, there was statistics. Data Science didn't exist until 2009 
 
 ### Advice to Data Science
 
-- Straightforwardly, A data Scientist must be:
+- Straightforwardly, a data Scientist must be:
 - Curious meaning to be able to take a position (to know what to do)
 - Extremely argumentative (to the extent to plead a case)
 
@@ -57,3 +57,18 @@ Before Data Science, there was statistics. Data Science didn't exist until 2009 
 ### => After learning to Data Science, one can say: "Now, I know this..."
 
 ### According to the industry, one might need different sets of skills (for competitive advantage = to exceed beyond others...)
+
+### Data Science: The Sexiest Job in the 21st Century
+
+Because the digital revolution has touched every aspect of our lives, the opportunity to benefit from learning about our behaviors is more so now than ever before. 
+
+Simply said, data scientists have emerged as a hot commodity, in the data-driven world. 
+- In 1995 the size of the digital universe was about 150 Billions Gigabytes ...
+
+- In 2020, this nuber is about 40 Trillion Gigabytes...
+
+- (In 2030, there will be around  40 sextillion bytes)
+
+- It’s been estimated there will be 75 billion IoT devices by 2025, adding a few zeroes onto the size of the digital universe
+
+[Link](https://www.ebay.com/itm/143893344532?chn=ps&norover=1&mkevt=1&mkrid=711-213727-13078-0&mkcid=2&itemid=143893344532&targetid=4580909047876964&device=c&mktype=&googleloc=&poi=&campaignid=410488100&mkgroupid=1236950807674763&rlsatarget=pla-4580909047876964&abcId=9300489&merchantid=51291&msclkid=482f3ce8f51b1fefc53f5c79a4203a17&nma=true&si=e0er5DkkjZmgPP%252BROPhUiF%252BZi2o%253D&orig_cvip=true&nordt=true&rt=nc&_trksid=p2047675.l2557)
