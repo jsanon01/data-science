@@ -28,13 +28,13 @@ Data Scientists use data analysis to add to the knowledge of the organization by
 
 ### The Many Paths to Data Science
 
-Before Data Science, there was statistics. Data Science didn't exist until 2009 - 2011.
+Before Data Science, there was statistics. Data Science didn't exist until 2009 - 2011. Just to name a few areas:
 
 - Business world | Mechanical & Civil Engineering
 
 - Accounting, Economics & Finance
 
-- Content moderator
+- Content moderator | Social Media
 
 - Political science
 
@@ -65,7 +65,7 @@ Because the digital revolution has touched every aspect of our lives, the opport
 Simply said, data scientists have emerged as a hot commodity, in the data-driven world. 
 - In 1995 the size of the digital universe was about 150 Billions Gigabytes ...
 
-- In 2020, this nuber is about 40 Trillion Gigabytes...
+- In 2020, this number is about 40 Trillion Gigabytes...
 
 - (In 2030, there will be around  40 sextillion bytes)
 
@@ -79,3 +79,44 @@ Simply said, data scientists have emerged as a hot commodity, in the data-driven
 
 ### What Data Scientists Do?
 
+#### A Day in the Life of Data Science
+
+- I learned that in data science, you really have to look into every detail. Almost everything is involved and little details are very important. It's relevant that you are very observant.
+
+- Data Science tells us that it is not enough to just work with the data we have, but to better understand the problem and find the solution, we must participate in the processes.
+
+<!--
+### Old Problems, New Problems, Data Science Solutions 
+
+- Organizations can leverage the almost unlimited amount of data now available to them in a growing number of ways because of Data Science.
+
+- The main reason that organizations use Data Science is to discover optimum solutions to existing problems.
+
+### => Let’s take a look at three examples of data science providing innovative solutions for old problems.
+
+- In transport, Uber collects real-time user data to discover how many drivers are available, if more are needed, and if they should allow a surge charge to attract more drivers.
+
+- The Toronto Transportation Commission has made great strides in solving an old problem with traffic flows, restructuring those flows in and around the city (by focusing on peak hour clearances and identifying the most congested routes). Therefore, monthly hours lost for commuters due to traffic congestion dropped from 4.75 hrs. in 2010 to 3 hrs. in mid-2014. -->
+
+<!-- =================================
+- In facing issues in our environment, data science can also play a proactive role. Freshwater lakes supply a variety of human and ecological needs, such as providing drinking water and producing food. ======================= -->
+
+<!--
+- In facing issues in our environment, a team of US scientists from research centers stretching from Maine to South Carolina
+is developing and deploying high-tech tools to explore cyanobacteria in lakes across the east coast. The team is using robotic boats, buoys, and camera-equipped drones to measure physical, chemical, and biological data in lakes where cyanobacteria are detected, collecting large volumes of data related to the lakes and the development of the harmful blooms.
+
+#### How do you get a better solution that is efficient?
+
+To do so, you must: 
+
+- Identify the problem and establish a clear understanding of it.
+
+- Gather the data for analysis.
+
+- Identify the right tools to use.
+
+- Develop a data strategy.
+
+- Case studies are also helpful in customizing a potential solution.
+
+- Once these conditions exist and available data is extracted, you can develop a machine learning model. -->
