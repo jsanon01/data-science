@@ -85,7 +85,7 @@ Simply said, data scientists have emerged as a hot commodity, in the data-driven
 
 - Data Science tells us that it is not enough to just work with the data we have, but to better understand the problem and find the solution, we must participate in the processes.
 
-<!--
+
 ### Old Problems, New Problems, Data Science Solutions 
 
 - Organizations can leverage the almost unlimited amount of data now available to them in a growing number of ways because of Data Science.
@@ -96,7 +96,7 @@ Simply said, data scientists have emerged as a hot commodity, in the data-driven
 
 - In transport, Uber collects real-time user data to discover how many drivers are available, if more are needed, and if they should allow a surge charge to attract more drivers.
 
-- The Toronto Transportation Commission has made great strides in solving an old problem with traffic flows, restructuring those flows in and around the city (by focusing on peak hour clearances and identifying the most congested routes). Therefore, monthly hours lost for commuters due to traffic congestion dropped from 4.75 hrs. in 2010 to 3 hrs. in mid-2014. -->
+- The Toronto Transportation Commission has made great strides in solving an old problem with traffic flows, restructuring those flows in and around the city (by focusing on peak hour clearances and identifying the most congested routes). Therefore, monthly hours lost for commuters due to traffic congestion dropped from 4.75 hrs. in 2010 to 3 hrs. in mid-2014. 
 
 <!-- =================================
 - In facing issues in our environment, data science can also play a proactive role. Freshwater lakes supply a variety of human and ecological needs, such as providing drinking water and producing food. ======================= -->
