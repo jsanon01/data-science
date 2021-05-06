@@ -101,7 +101,7 @@ Simply said, data scientists have emerged as a hot commodity, in the data-driven
 <!-- =================================
 - In facing issues in our environment, data science can also play a proactive role. Freshwater lakes supply a variety of human and ecological needs, such as providing drinking water and producing food. ======================= -->
 
-<!--
+
 - In facing issues in our environment, a team of US scientists from research centers stretching from Maine to South Carolina
 is developing and deploying high-tech tools to explore cyanobacteria in lakes across the east coast. The team is using robotic boats, buoys, and camera-equipped drones to measure physical, chemical, and biological data in lakes where cyanobacteria are detected, collecting large volumes of data related to the lakes and the development of the harmful blooms.
 
@@ -119,4 +119,4 @@ To do so, you must:
 
 - Case studies are also helpful in customizing a potential solution.
 
-- Once these conditions exist and available data is extracted, you can develop a machine learning model. -->
+- Once these conditions exist and available data is extracted, you can develop a machine learning model.
