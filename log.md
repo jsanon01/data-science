@@ -188,12 +188,12 @@ But that's the definition Of an average data scientist. The best, she contended,
 
 #### => "Curiosity is equally important for data scientists as it is for journalists."
 
--->
+
 ## Module 3
 
 ### Big Data & Data Mining
 
 #### Foundations of Big Data
-
+-->
 
 
