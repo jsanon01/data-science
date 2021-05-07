@@ -120,3 +120,80 @@ To do so, you must:
 - Case studies are also helpful in customizing a potential solution.
 
 - Once these conditions exist and available data is extracted, you can develop a machine learning model.
+
+### => Data Science & Algorithms
+
+Some of the key concepts about Data Science are:
+
+Regression | Data Visualization (with R) | Artificoal Neural Networks
+
+Structured data (like rows & columns similar to MS Excel) | Unstructured data (mostly coming from web)
+
+#### => Lot of times we take unstructured data, get some structure out of it and then analyze it.
+
+#### What is regression?
+
+Let me explain regression in the simplest possible terms.
+
+- Firstly, we have a constant. If you have ever taken a cab ride, a taxi ride, you understand regression.
+
+Here is how it works.
+
+The moment you sit in a cab ride, in a cab, you see that there's a fixed amount there (meaning a flat rate). It says $2.50.
+This is what you owe to the driver the moment you step into a cab. That's a constant.
+
+- Regression tells you what the base fare is and what is the relationship between time and the fare you have paid, and the distance you have traveled and the fare you've paid.
+
+ - Regression allows you to compute that constant that you didn't know. That it's $2.50, and it would compute the relationship between the fare and and the distance and the fare and the time.
+<!--
+ ### Cloud for Data Science
+
+- One of the things Cloud is very useful for is that it allows multiple entities to work with same data at the same time. So you can be working with the same data that your colleagues in say, Germany, and another team in India, and another team in in Ghana. They are collectively working and they are able to do so because the information and the algorithms and the tools and the answers and the results-- whatever they needed-- is available at a central place called 'Cloud.'
+
+- Some big tech companies offer cloud platforms allowing you to become familiar with cloud-based technologies in a pre-built environment. 
+
+    - IBM offers the IBM Cloud, 
+
+    - Amazon offers Amazon Web Services or AWS, 
+
+    - And Google offers Google Cloud Platform.
+
+
+ #### => The Cloud is not only accessible from everywhere but also available on all kind of devices.
+
+ #### => IBM also provides skills, Network labs, or SN labs to learners where you have access to tools like Jupyter notebooks and Spark clusters so you can create your own data science project and develop solutions
+
+
+### What Makes Someone a Data Scientist?
+
+- I define data science as something that data scientists do.
+
+- One of the key ingredients for a successful data scientist is a behavioral trait: curiosity. 
+
+- In an interview With the New York Times, Dr. Rachel Schutt defined a data scientist as someone Who is:
+    
+    - part computer scientist, 
+    
+    - part software engineer, 
+    
+    - and part statistician (Miller, 2013). 
+
+But that's the definition Of an average data scientist. The best, she contended, tend to be really
+    
+    - curious people, 
+
+    - thinkers who ask good questions 
+    
+    - and are O.K. dealing with unstructured situations and trying to find structure in them.
+
+#### => "Curiosity is equally important for data scientists as it is for journalists."
+
+-->
+## Module 3
+
+### Big Data & Data Mining
+
+#### Foundations of Big Data
+
+
+
