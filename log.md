@@ -165,7 +165,7 @@ This is what you owe to the driver the moment you step into a cab. That's a cons
 
  #### => IBM also provides skills, Network labs, or SN labs to learners where you have access to tools like Jupyter notebooks and Spark clusters so you can create your own data science project and develop solutions
 
-<!--
+
 ### What Makes Someone a Data Scientist?
 
 - I define data science as something that data scientists do.
@@ -174,11 +174,11 @@ This is what you owe to the driver the moment you step into a cab. That's a cons
 
 - In an interview With the New York Times, Dr. Rachel Schutt defined a data scientist as someone Who is:
     
-    - part computer scientist, 
+ ####   - part computer scientist, 
     
-    - part software engineer, 
+ ####   - part software engineer, 
     
-    - and part statistician (Miller, 2013). 
+ ####   - and part statistician [ (Miller, 2013) ]. 
 
 But that's the definition Of an average data scientist. The best, she contended, tend to be really
     
@@ -190,7 +190,7 @@ But that's the definition Of an average data scientist. The best, she contended,
 
 #### => "Curiosity is equally important for data scientists as it is for journalists."
 
-
+<!--
 ## Module 3
 
 ### Big Data & Data Mining
