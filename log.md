@@ -148,7 +148,9 @@ This is what you owe to the driver the moment you step into a cab. That's a cons
 
  ### Cloud for Data Science
 
-- One of the things Cloud is very useful for is that it allows multiple entities to work with same data at the same time. So you can be working with the same data that your colleagues in say, Germany, and another team in India, and another team in in Ghana. They are collectively working and they are able to do so because the information and the algorithms and the tools and the answers and the results-- whatever they needed-- is available at a central place called 'Cloud.'
+- One of the things Cloud is very useful for is that it allows multiple entities to work with same data at the same time. 
+
+- Co-workers around the world are collectively able to do so because the information, algorithms, tools, answers and results [ whatever they needed ] are available at a central place called 'Cloud.'
 
 - Some big tech companies offer cloud platforms allowing you to become familiar with cloud-based technologies in a pre-built environment. 
 
