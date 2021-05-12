@@ -145,7 +145,7 @@ This is what you owe to the driver the moment you step into a cab. That's a cons
 - Regression tells you what the base fare is and what is the relationship between time and the fare you have paid, and the distance you have traveled and the fare you've paid.
 
  - Regression allows you to compute that constant that you didn't know. That it's $2.50, and it would compute the relationship between the fare and and the distance and the fare and the time.
-<!--
+
  ### Cloud for Data Science
 
 - One of the things Cloud is very useful for is that it allows multiple entities to work with same data at the same time. So you can be working with the same data that your colleagues in say, Germany, and another team in India, and another team in in Ghana. They are collectively working and they are able to do so because the information and the algorithms and the tools and the answers and the results-- whatever they needed-- is available at a central place called 'Cloud.'
@@ -163,7 +163,7 @@ This is what you owe to the driver the moment you step into a cab. That's a cons
 
  #### => IBM also provides skills, Network labs, or SN labs to learners where you have access to tools like Jupyter notebooks and Spark clusters so you can create your own data science project and develop solutions
 
-
+<!--
 ### What Makes Someone a Data Scientist?
 
 - I define data science as something that data scientists do.
