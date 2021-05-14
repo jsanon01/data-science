@@ -203,6 +203,7 @@ There is no accurate definition of Big Data, however, there are certain elements
 across the different definitions, such as velocity, volume, variety, veracity, and value.
 
 ### => They are refered as 5 Vs.
+![5 Vs](https://github.com/jsanon01/data-science/blob/main/images/5Vs.png)
 <!--
 - Velocity => is the speed (at which data accumulates). Such example is Cloud-based technology processing data in Real time streaming.
 #### => Example:
