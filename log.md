@@ -202,9 +202,9 @@ In this digital world, everyone leaves a trace. Either from social media, text a
 There is no accurate definition of Big Data, however, there are certain elements that are common
 across the different definitions, such as velocity, volume, variety, veracity, and value.
 
-### => They are refered as 5 Vs.
+### => They are referred to as 5 Vs.
 ![5 Vs](https://github.com/jsanon01/data-science/blob/main/images/5Vs.png)
-<!--
+
 - Velocity => is the speed (at which data accumulates). Such example is Cloud-based technology processing data in Real time streaming.
 #### => Example:
 
@@ -216,7 +216,7 @@ Data is generated every 60 seconds (hours of footage are uploaded to YouTube)
 
 The world population is approximately seven billion people and the vast majority are now using digital devices; mobile phones, desktop and laptop computers, wearable devices,
 and so on they use approximately 2.5 quintillion bytes every day... equivalent of 10 million Blu-ray DVD's.
-
+<!--
 - Variety => is the diversity of the data coming from different sources [ structured (rows & columns), unstructured (tweets, blog posts, pictures, numbers, vidoes ...) ].
 
 #### => Example:
@@ -240,7 +240,24 @@ reliable and accurate insights.
 
 Digital Transformation affects business operations around the world.
 
+- Netflix moved from being a postal DVD lending system to one of the world’s foremost video streaming providers, 
 
+- The Houston Rockets NBA team used data gathered by overhead cameras to analyze the most productive plays, 
+
+#### => They use video tracking data to provide best opportunities for high scores.
+
+- Lufthansa analyzed customer data to improve its service.
+
+### What is Hadoop?
+
+Apache Hadoop is an open source framework that is used to efficiently store and process large datasets ranging in size from gigabytes to petabytes of data. 
+
+Instead of using one large computer to store and process the data, Hadoop allows clustering multiple computers to analyze massive datasets in parallel more quickly.
+
+#### => At the bottom of data science () you see probability and statistics. () You see algebra, linear algebra () you see programming () and you see databases.
+
+
+### Data Science Skills and Big Data
 
 -->
 
