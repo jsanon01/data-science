@@ -121,7 +121,7 @@ To do so, you must:
 
 - Once these conditions exist and available data is extracted, you can develop a machine learning model.
 
-### => Data Science & Algorithms
+### Data Science & Algorithms
 
 Some of the key concepts about Data Science are:
 
@@ -186,16 +186,61 @@ But that's the definition Of an average data scientist. The best, she contended,
 
     - thinkers who ask good questions 
     
-    - and are O.K. dealing with unstructured situations and trying to find structure in them.
+    - dealing with unstructured situations and trying to find structure in them.
 
 #### => "Curiosity is equally important for data scientists as it is for journalists."
 
-<!--
+
 ## Module 3
 
 ### Big Data & Data Mining
 
 #### Foundations of Big Data
+
+In this digital world, everyone leaves a trace. Either from social media, text and email messages, travel habits to our workouts and entertainment, the increasing number of internet connected devices that we interact with on a daily basis record vast amounts of data about us. Thus, there is even a name for it: 'Big Data'
+
+There is no accurate definition of Big Data, however, there are certain elements that are common
+across the different definitions, such as velocity, volume, variety, veracity, and value.
+
+### => They are refered as 5 Vs.
+<!--
+- Velocity => is the speed (at which data accumulates). Such example is Cloud-based technology processing data in Real time streaming.
+#### => Example:
+
+Data is generated every 60 seconds (hours of footage are uploaded to YouTube)
+
+- Volume => is the increase in the amount of data stored (dscale of ata).
+
+#### => Example:  
+
+The world population is approximately seven billion people and the vast majority are now using digital devices; mobile phones, desktop and laptop computers, wearable devices,
+and so on they use approximately 2.5 quintillion bytes every day... equivalent of 10 million Blu-ray DVD's.
+
+- Variety => is the diversity of the data coming from different sources [ structured (rows & columns), unstructured (tweets, blog posts, pictures, numbers, vidoes ...) ].
+
+#### => Example:
+
+ Different types of data such as: text, pictures, film, sound, health
+data from wearable devices, and many different types of data from devices connected to the
+Internet of Things.
+
+- Veracity => is the quality and origin of data being accurate,
+
+#### => Example:
+
+ Because 80% of data is considered to be unstructured, we must devise ways to produce
+reliable and accurate insights.
+
+##### Data must be categorized, analyzed, and visualized.
+
+- Value => is our ability and need to turn data into value (medical or social benefits, as well as customer, employee, or personal satisfaction.)
+
+#### How Big Data is driving Digital Information
+
+Digital Transformation affects business operations around the world.
+
+
+
 -->
 
 
