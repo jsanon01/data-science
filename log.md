@@ -214,17 +214,15 @@ Data is generated every 60 seconds (hours of footage are uploaded to YouTube)
 
 #### => Example:  
 
-The world population is approximately seven billion people and the vast majority are now using digital devices; mobile phones, desktop and laptop computers, wearable devices,
-and so on they use approximately 2.5 quintillion bytes every day... equivalent of 10 million Blu-ray DVD's.
-<!--
+The world population is approximately seven billion people and the vast majority are now using digital devices; mobile phones, desktop and laptop computers, wearable devices, and so on they use approximately 2.5 quintillion bytes every day... equivalent of 10 million Blu-ray DVD's.
+
 - Variety => is the diversity of the data coming from different sources [ structured (rows & columns), unstructured (tweets, blog posts, pictures, numbers, vidoes ...) ].
 
 #### => Example:
 
- Different types of data such as: text, pictures, film, sound, health
-data from wearable devices, and many different types of data from devices connected to the
-Internet of Things.
+ Different types of data such as: text, pictures, film, sound, health data from wearable devices, and many different types of data from devices connected to the Internet of Things.
 
+<!--
 - Veracity => is the quality and origin of data being accurate,
 
 #### => Example:
