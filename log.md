@@ -218,13 +218,13 @@ The world population is approximately seven billion people and the vast majority
 
 - Variety => is the diversity of the data coming from different sources:
     - Structured data like rows & columns
-    - Unstructured data like tweets, blog posts, pictures, numbers, vidoes ...
+    - Unstructured data like tweets, blog posts, pictures, numbers, videos ...
 
 #### => Example:
 
  Different types of data such as: text, pictures, film, sound, health data from wearable devices, and many different types of data from devices connected to the Internet of Things.
 
-<!--
+
 - Veracity => is the quality and origin of data being accurate,
 
 #### => Example:
@@ -236,6 +236,7 @@ reliable and accurate insights.
 
 - Value => is our ability and need to turn data into value (medical or social benefits, as well as customer, employee, or personal satisfaction.)
 
+<!--
 #### How Big Data is driving Digital Information
 
 Digital Transformation affects business operations around the world.
@@ -258,7 +259,12 @@ Instead of using one large computer to store and process the data, Hadoop allows
 
 
 ### Data Science Skills and Big Data
-
+- to become a (self taught) programmer 
+- to be familiar with economics & statistics
+- to have basics Python (notebook)
+- to be knowledgeable in RDBMS
+- to learn Python Pandas (for math & statistical calculations
+- 
 -->
 
 
