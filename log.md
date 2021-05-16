@@ -216,7 +216,9 @@ Data is generated every 60 seconds (hours of footage are uploaded to YouTube)
 
 The world population is approximately seven billion people and the vast majority are now using digital devices; mobile phones, desktop and laptop computers, wearable devices, and so on they use approximately 2.5 quintillion bytes every day... equivalent of 10 million Blu-ray DVD's.
 
-- Variety => is the diversity of the data coming from different sources [ structured (rows & columns), unstructured (tweets, blog posts, pictures, numbers, vidoes ...) ].
+- Variety => is the diversity of the data coming from different sources:
+    - Structured data like rows & columns
+    - Unstructured data like tweets, blog posts, pictures, numbers, vidoes ...
 
 #### => Example:
 
