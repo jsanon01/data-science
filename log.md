@@ -236,8 +236,8 @@ reliable and accurate insights.
 
 - Value => is our ability and need to turn data into value (medical or social benefits, as well as customer, employee, or personal satisfaction.)
 
-<!--
-#### How Big Data is driving Digital Information
+
+#### How Big Data is driving Digital Information?
 
 Digital Transformation affects business operations around the world.
 
@@ -249,6 +249,7 @@ Digital Transformation affects business operations around the world.
 
 - Lufthansa analyzed customer data to improve its service.
 
+<!--
 ### What is Hadoop?
 
 Apache Hadoop is an open source framework that is used to efficiently store and process large datasets ranging in size from gigabytes to petabytes of data. 
@@ -259,12 +260,50 @@ Instead of using one large computer to store and process the data, Hadoop allows
 
 
 ### Data Science Skills and Big Data
-- to become a (self taught) programmer 
-- to be familiar with economics & statistics
-- to have basics Python (notebook)
-- to be knowledgeable in RDBMS
-- to learn Python Pandas (for math & statistical calculations
-- 
+
+Data Scientists lead to the following skills:
+
+- To become a (self taught) programmer 
+- To be familiar with economics & statistics
+- To have basics Python (notebook)
+- To be knowledgeable in RDBMS
+- To learn Python Pandas (for math & statistical calculations
+
+#### Data Scientists (at NYU)
+
+Data science and business analytics have become very hot subjects in the last four or five years.
+
+#### => My definition of Big Data is data that is large enough in terms of volume and velocity that not only you cannot handle it with traditional database systems but also  can't fit on a thumb drive.
+
+Big Data started by Google when they want to figure out how to solve their page rank algorithm; and they ended up creating  clusters of higher-end hardware, which later on turned into Hadoop... 
+
+### Data Mining
+
+- Extracting data Mining Goals
+- Selecting Data
+- Processing Data
+- Transforming Data
+- Storing Data
+- Mining Data
+- Evaluating Mining Results
+
+[Making Sense of Data with Analytics](https://www.amazon.com/Getting-Started-Data-Science-Analytics/dp/0133991024)
+
+
+
+## Module 4 
+
+### Deep Learning and Machine Learning Objectives
+
+#### What's the Difference?
+
+There is some intersection between AI and Data Science, but one is not a subset of the other.
+
+Rather, Data Science is a broad term that encompasses the entire data processing methodology.
+
+While AI includes everything that allows computers to learn how to solve problems and make intelligent decisions.
+
+#### => Both AI and Data Science can involve the use of big data, that is significantly large volumes of data.
 -->
 
 
