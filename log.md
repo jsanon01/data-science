@@ -249,6 +249,73 @@ Digital Transformation affects business operations around the world.
 
 - Lufthansa analyzed customer data to improve its service.
 
+
+## Business Tchnology Analyst
+
+### What is the role of a Business Technology Analyst?
+
+- A BTA works on analysis and design in the areas of:
+  planning | organization | Information Technology
+
+- Technical Business Analyst is typically part of an IT organization.
+
+- The business analyst must ensure that designs meet a company's technical standards.
+
+There are 4 types of analysis
+
+- Descriptive Analytics => dealing with reports and alerts
+
+- Diagnostic Analytics => queries and data mining
+
+- Predictive Analytics => forecasts and simulations
+
+- Prescriptive Analytics => planning and optimization
+
+our main concern is prscriptive analytics
+
+#### - IoT devices 
+
+    IoT devices are connected the Internet. These devices can perform:
+    - remote sensing, 
+    - actuating and monitoring. 
+
+- IoT devices can exchange data with other connected devices and applications (directly or indirectly), or collect data from other devices and process the data either locally or send the data to centralized servers or cloud-based applications.
+
+#### - Smart Roads 
+
+   Smart Roads equipped with sensors can provide information on
+    - driving conditions, travel time estimates and alerts in case of poor driving conditions, 
+    - traffic congestions and accidents. 
+Such information can help in making the roads safer and help in reducing traffic jams. Information sensed from the roads can be communicated via Internet to cloud-based big data analytics applications. The analysis results can be disseminated to the drivers who subscribe to such applications or through social media.
+
+#### - Air Pollution Monitoring: 
+
+Air pollution monitoring systems can monitor emission of harmful gases (CO2, CO, NO, or NO2) by factories and automobiles. 
+
+
+#### - Logistics & Transportation
+
+##### - Real-time Fleet Tracking: 
+Vehicle fleet tracking systems use GPS technology to track the locations of the vehicles in real-time. Cloud-based fleet tracking systems can be scaled up on demand to handle large number of vehicles. Alerts can be generated in case of deviations in planned routes. Big data systems can be used to aggregate and analyze vehicle locations and routes data for detecting bottlenecks in the supply chain such as traffic congestions on routes, assignment and generation of alternative routes, and supply chain optimization.
+
+
+#### - Remote Vehicle Diagnostics: 
+
+Remote vehicle diagnostic systems can detect faults in the vehicles or warn of impending faults. These diagnostic systems use on-board devices for collecting data on vehicle operation (such as speed, engine RPM, coolant temperature, or fault code number) and status of various vehicle sub-systems.
+
+#### - Route Generation & Scheduling: 
+
+Modern transportation systems are driven by data collected from multiple sources which is processed to provide new services to the stakeholders. By collecting large amount of data from various sources and processing the data into useful information, data-driven transportation systems can provide new services such as advanced route guidance, dynamic vehicle routing, anticipating customer demands for pickup and delivery problem, for instance. 
+
+#### - Cab/Taxi Aggregators: 
+
+On-demand transport technology aggregators (or cab/taxi aggregators) allow customers to book cabs using web or mobile applications and the requests are routed to nearest available cabs (sometimes even private drivers who opt-in their own cars for hire). The cab aggregation platforms use big data systems for real-time processing of requests and dynamic pricing. These platforms maintain record of all cabs and match the trip requests from customers to the nearest and most suitable cabs. These platforms adopt dynamic pricing models where the pricing increases or decreases based on the demand and the traffic conditions.
+
+
+
+
+
+
 <!--
 ### What is Hadoop?
 
