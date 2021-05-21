@@ -313,14 +313,15 @@ On-demand transport technology aggregators (or cab/taxi aggregators) allow custo
 
 ### Suggestions for Self-Service Technology
 
-- portable kiosks inside the buses
+- Portable kiosks inside the buses
 
-- portable kiosks at convenient stores 
+- Portable kiosks at convenient stores 
 
-- gift or pre-paid cards (at grocerie stores)
+- Gift or pre-paid cards (at grocerie stores)
 
 ![Portable iPad Kiosk](https://github.com/jsanon01/data-science/blob/main/images/iPad%20kiosk.png)
 
+#### => kiosks don't do cash transactions but relay information to a centrlized server with gifts and prepaid cards.
 <!--
 ### What is Hadoop?
 
