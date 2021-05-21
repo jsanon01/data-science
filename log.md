@@ -250,7 +250,7 @@ Digital Transformation affects business operations around the world.
 - Lufthansa analyzed customer data to improve its service.
 
 
-## Business Tchnology Analyst
+## Business Technology Analyst
 
 ### What is the role of a Business Technology Analyst?
 
@@ -265,13 +265,12 @@ There are 4 types of analysis
 
 - Descriptive Analytics => dealing with reports and alerts
 
-- Diagnostic Analytics => queries and data mining
+- Diagnostic Analytics => dealing with queries and data mining
 
-- Predictive Analytics => forecasts and simulations
+- Predictive Analytics => dealing with forecasts and simulations
 
-- Prescriptive Analytics => planning and optimization
+- Prescriptive Analytics => dealing with planning and optimization
 
-our main concern is prscriptive analytics
 
 #### - IoT devices 
 
@@ -312,9 +311,15 @@ Modern transportation systems are driven by data collected from multiple sources
 On-demand transport technology aggregators (or cab/taxi aggregators) allow customers to book cabs using web or mobile applications and the requests are routed to nearest available cabs (sometimes even private drivers who opt-in their own cars for hire). The cab aggregation platforms use big data systems for real-time processing of requests and dynamic pricing. These platforms maintain record of all cabs and match the trip requests from customers to the nearest and most suitable cabs. These platforms adopt dynamic pricing models where the pricing increases or decreases based on the demand and the traffic conditions.
 
 
+### Suggestions for Self-Service Technology
 
+- portable kiosks inside the buses
 
+- portable kiosks at convenient stores 
 
+- gift or pre-paid cards (at grocerie stores)
+
+![Portable iPad Kiosk](https://github.com/jsanon01/data-science/blob/main/images/iPad%20kiosk.png)
 
 <!--
 ### What is Hadoop?
