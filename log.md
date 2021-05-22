@@ -306,9 +306,9 @@ Remote vehicle diagnostic systems can detect faults in the vehicles or warn of i
 
 Modern transportation systems are driven by data collected from multiple sources which is processed to provide new services to the stakeholders. By collecting large amount of data from various sources and processing the data into useful information, data-driven transportation systems can provide new services such as advanced route guidance, dynamic vehicle routing, anticipating customer demands for pickup and delivery problem, for instance. 
 
-#### - Cab/Taxi Aggregators: 
+#### - On-demand transport technology aggregators: 
 
-On-demand transport technology aggregators (or cab/taxi aggregators) allow customers to book cabs using web or mobile applications and the requests are routed to nearest available cabs (sometimes even private drivers who opt-in their own cars for hire). The cab aggregation platforms use big data systems for real-time processing of requests and dynamic pricing. These platforms maintain record of all cabs and match the trip requests from customers to the nearest and most suitable cabs. These platforms adopt dynamic pricing models where the pricing increases or decreases based on the demand and the traffic conditions.
+  Cab/taxi aggregators allow customers to book cabs using web or mobile applications and the requests are routed to nearest available cabs (sometimes even private drivers who opt-in their own cars for hire). The cab aggregation platforms use big data systems for real-time processing of requests and dynamic pricing. These platforms maintain record of all cabs and match the trip requests from customers to the nearest and most suitable cabs. These platforms adopt dynamic pricing models where the pricing increases or decreases based on the demand and the traffic conditions.
 
 
 ### Suggestions for Self-Service Technology
@@ -321,7 +321,7 @@ On-demand transport technology aggregators (or cab/taxi aggregators) allow custo
 
 ![Portable iPad Kiosk](https://github.com/jsanon01/data-science/blob/main/images/iPad%20kiosk.png)
 
-#### => kiosks don't do cash transactions but relay information to a centrlized server with gifts and prepaid cards.
+#### => Kiosks don't do cash transactions but relay information to a centralized server processing gifts and prepaid cards.
 <!--
 ### What is Hadoop?
 
