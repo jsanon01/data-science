@@ -322,6 +322,57 @@ Modern transportation systems are driven by data collected from multiple sources
 ![Portable iPad Kiosk](https://github.com/jsanon01/data-science/blob/main/images/iPad%20kiosk.png)
 
 #### => Kiosks don't do cash transactions but relay information to a centralized server processing gifts and prepaid cards.
+
+## What is Business Technology?
+
+Business Technology as a concept describes all technology that helps an organisation run its business and operational processes. That technology can be: 
+
+- customer-facing applications and solutions, 
+
+- business-critical production and logistics solutions, 
+
+- or back office financial systems, among others. 
+
+Whatever its use, all this technology should be managed professionally.
+
+### Elements of Business Technology
+
+- Digital Frontline
+
+Digitalisation provides new business opportunities and requires consistent design thinking on how to face customers, partners and employees in a networked multi-channel world.
+
+##### Example:
+
+Digital apps and web, as well as digital enterprises, enable the creation of new business possibilities around customer experience, digital business and internet of things (IoT) services.
+
+#### => Customer experience is at the heart of all digital frontline activities.
+
+- Technology Backbone
+
+ It is where the essential business asset of a company resides, and the purpose is to provide operational efficiency to the company through reliability, security and scalability.
+
+![Business Capabilities](https://github.com/jsanon01/data-science/blob/main/images/frontline.png)
+
+### Technology Domain
+
+We define four distinct categories of technology: 
+
+- customer interfacing technology => 
+
+is interaction with the customer facing processes and services
+
+- product technology =>
+
+that can be operated, monitored and/or interfaced remotely and can interact with its environment 24/7
+
+- operational technology 
+
+contains all information systems used for managing, operating and monitoring automation systems.
+
+- and business process technology.
+
+consists of information technology and solutions that are used for managing business processes and executing business transactions, i.e. systems that support day-to-day business operations.
+
 <!--
 ### What is Hadoop?
 
