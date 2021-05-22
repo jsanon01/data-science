@@ -292,7 +292,7 @@ Such information can help in making the roads safer and help in reducing traffic
 Air pollution monitoring systems can monitor emission of harmful gases (CO2, CO, NO, or NO2) by factories and automobiles. 
 
 
-#### - Logistics & Transportation
+### - Logistics & Transportation
 
 ##### - Real-time Fleet Tracking: 
 Vehicle fleet tracking systems use GPS technology to track the locations of the vehicles in real-time. Cloud-based fleet tracking systems can be scaled up on demand to handle large number of vehicles. Alerts can be generated in case of deviations in planned routes. Big data systems can be used to aggregate and analyze vehicle locations and routes data for detecting bottlenecks in the supply chain such as traffic congestions on routes, assignment and generation of alternative routes, and supply chain optimization.
@@ -355,21 +355,21 @@ Digital apps and web, as well as digital enterprises, enable the creation of new
 
 ### Technology Domain
 
-We define four distinct categories of technology: 
+We define four distinct categories of Technology: 
 
-- customer interfacing technology => 
+- Customer Interfacing Technology => 
 
 is interaction with the customer facing processes and services
 
-- product technology =>
+- Product Technology =>
 
 that can be operated, monitored and/or interfaced remotely and can interact with its environment 24/7
 
-- operational technology 
+- Operational Technology 
 
 contains all information systems used for managing, operating and monitoring automation systems.
 
-- and business process technology.
+- and Business Process Technology.
 
 consists of information technology and solutions that are used for managing business processes and executing business transactions, i.e. systems that support day-to-day business operations.
 
