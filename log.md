@@ -263,13 +263,13 @@ Digital Transformation affects business operations around the world.
 
 There are 4 types of analysis
 
-- Descriptive Analytics => dealing with reports and alerts
+- Descriptive Analytics => deals with reports and alerts [ What happened? ]
 
-- Diagnostic Analytics => dealing with queries and data mining
+- Diagnostic Analytics => deals with queries and data mining [ Why did it happen? ]
 
-- Predictive Analytics => dealing with forecasts and simulations
+- Predictive Analytics => deals with forecasts and simulations [ What is likely to happen? ]
 
-- Prescriptive Analytics => dealing with planning and optimization
+- Prescriptive Analytics => deals with planning and optimization [ What can we do to make it happen? ]
 
 
 #### - IoT devices 
