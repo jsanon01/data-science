@@ -373,7 +373,7 @@ contains all information systems used for managing, operating and monitoring aut
 
 consists of information technology and solutions that are used for managing business processes and executing business transactions, i.e. systems that support day-to-day business operations.
 
-<!--
+
 ### What is Hadoop?
 
 Apache Hadoop is an open source framework that is used to efficiently store and process large datasets ranging in size from gigabytes to petabytes of data. 
@@ -382,7 +382,7 @@ Instead of using one large computer to store and process the data, Hadoop allows
 
 #### => At the bottom of data science () you see probability and statistics. () You see algebra, linear algebra () you see programming () and you see databases.
 
-
+<!--
 ### Data Science Skills and Big Data
 
 Data Scientists lead to the following skills:
