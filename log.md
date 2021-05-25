@@ -382,7 +382,7 @@ Instead of using one large computer to store and process the data, Hadoop allows
 
 #### => At the bottom of data science () you see probability and statistics. () You see algebra, linear algebra () you see programming () and you see databases.
 
-<!--
+
 ### Data Science Skills and Big Data
 
 Data Scientists lead to the following skills:
@@ -392,7 +392,7 @@ Data Scientists lead to the following skills:
 - To have basics Python (notebook)
 - To be knowledgeable in RDBMS
 - To learn Python Pandas (for math & statistical calculations
-
+<!--
 #### Data Scientists (at NYU)
 
 Data science and business analytics have become very hot subjects in the last four or five years.
