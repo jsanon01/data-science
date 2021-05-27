@@ -392,7 +392,7 @@ Data Scientists lead to the following skills:
 - To have basics Python (notebook)
 - To be knowledgeable in RDBMS
 - To learn Python Pandas (for math & statistical calculations
-<!--
+
 #### Data Scientists (at NYU)
 
 Data science and business analytics have become very hot subjects in the last four or five years.
@@ -401,6 +401,7 @@ Data science and business analytics have become very hot subjects in the last fo
 
 Big Data started by Google when they want to figure out how to solve their page rank algorithm; and they ended up creating  clusters of higher-end hardware, which later on turned into Hadoop... 
 
+<!--
 ### Data Mining
 
 - Extracting data Mining Goals
