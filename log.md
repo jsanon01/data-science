@@ -401,7 +401,7 @@ Data science and business analytics have become very hot subjects in the last fo
 
 Big Data started by Google when they want to figure out how to solve their page rank algorithm; and they ended up creating  clusters of higher-end hardware, which later on turned into Hadoop... 
 
-<!--
+
 ### Data Mining
 
 - Extracting data Mining Goals
@@ -415,7 +415,7 @@ Big Data started by Google when they want to figure out how to solve their page 
 [Making Sense of Data with Analytics](https://www.amazon.com/Getting-Started-Data-Science-Analytics/dp/0133991024)
 
 
-
+<!--
 ## Module 4 
 
 ### Deep Learning and Machine Learning Objectives
