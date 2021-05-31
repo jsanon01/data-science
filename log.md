@@ -415,7 +415,7 @@ Big Data started by Google when they want to figure out how to solve their page 
 [Making Sense of Data with Analytics](https://www.amazon.com/Getting-Started-Data-Science-Analytics/dp/0133991024)
 
 
-<!--
+
 ## Module 4 
 
 ### Deep Learning and Machine Learning Objectives
@@ -429,6 +429,6 @@ Rather, Data Science is a broad term that encompasses the entire data processing
 While AI includes everything that allows computers to learn how to solve problems and make intelligent decisions.
 
 #### => Both AI and Data Science can involve the use of big data, that is significantly large volumes of data.
--->
+
 
 
