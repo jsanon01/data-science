@@ -445,8 +445,13 @@ While AI includes everything that allows computers to learn how to solve problem
 
     - Data Manipulation Language (DML) => is to read and modify data in tables
       Common DML Statements (CRUD) include: 
-          - Create ==> is used for 'inserting' rows of data into a table
-          - Read ==> is used for 'selecting or reading' rows of data into a table
-          - Update ==> is used for 'editing' rows into a table
+
+          - Create ==> is used for 'inserting' rows of data into a table.
+
+          - Read ==> is used for 'selecting or reading' rows of data into a table.
+
+          - Update ==> is used for 'editing' rows into a table.
+
           - Delete ==> is used for 'removing' rows of data from a table.
+          
 
