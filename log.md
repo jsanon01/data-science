@@ -438,20 +438,20 @@ While AI includes everything that allows computers to learn how to solve problem
 - Types of SQL Statements
     - Data Definition Language (DDL) =>  is to define, change, or drop database
         objects such as tables. Common DLL Statements include: 
-        - Create ==> is used for creating tables and defining its columns
-        - Alter ==> is used for altering tables meaning adding and dropping columns
-        - Truncate ==> is used for deleting data in a table (but not the table itself)
-        - Drop ==> is used for deleting tables
+        - Create => is used for creating tables and defining its columns
+        - Alter => is used for altering tables meaning adding and dropping columns
+        - Truncate => is used for deleting data in a table (but not the table itself)
+        - Drop => is used for deleting tables
 
     - Data Manipulation Language (DML) => is to read and modify data in tables
       Common DML Statements (CRUD) include: 
 
-          - Create ==> is used for 'inserting' rows of data into a table.
+          - Create => is used for 'inserting' rows of data into a table.
 
-          - Read ==> is used for 'selecting or reading' rows of data into a table.
+          - Read => is used for 'selecting or reading' rows of data into a table.
 
-          - Update ==> is used for 'editing' rows into a table.
+          - Update => is used for 'editing' rows into a table.
 
-          - Delete ==> is used for 'removing' rows of data from a table.
-          
+          - Delete => is used for 'removing' rows of data from a table.
+
 
