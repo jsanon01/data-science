@@ -327,11 +327,11 @@ Modern transportation systems are driven by data collected from multiple sources
 
 Business Technology as a concept describes all technology that helps an organisation run its business and operational processes. That technology can be: 
 
-- customer-facing applications and solutions, 
+- Customer-facing applications and solutions, 
 
-- business-critical production and logistics solutions, 
+- Business-critical production and logistics solutions, 
 
-- or back office financial systems, among others. 
+- Back office financial systems, among others. 
 
 Whatever its use, all this technology should be managed professionally.
 
